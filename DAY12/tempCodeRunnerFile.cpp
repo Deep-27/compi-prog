@@ -1,1 +1,1 @@
-cout<<array[firstLargest(array ,n)]<<endl;
+cout<<isAdd(array , n);
